@@ -21,5 +21,4 @@ for i in range(100):
     current_heading = tim.heading()
     tim.setheading(current_heading+10)
 
-
 screen.exitonclick()
